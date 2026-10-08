@@ -1,0 +1,1 @@
+#Question: This user has watched [HistoryHere] in the previous. Now we have a candidate movie for the user: [TargetHere]. Based on the user's watching history, will the user watch this movie next? Answer Yes or No. #Answer:

@@ -5,3 +5,25 @@ output/
 *.df
 __pycache__
 ref
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.safetensors
+*.bin
+
+# Training logs
+*.log
+
+# Python caches
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Experiment artifacts
+wandb/
+checkpoints/
+
+# Local credentials
+.env
+.env.*
